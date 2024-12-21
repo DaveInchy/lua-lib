@@ -1,4 +1,4 @@
--- useModule(URL: string)
+-- import(URL: string)
 return function(URL: string)
 
     local Http = game:GetService("HttpService")
